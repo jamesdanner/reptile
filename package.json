@@ -1,0 +1,14 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "http",
+  "main": "index.js",
+  "author": "james",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.5.0",
+    "mongoose": "^5.6.6",
+    "request": "^2.88.0"
+  }
+}
